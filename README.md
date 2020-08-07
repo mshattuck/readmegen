@@ -1,5 +1,5 @@
 # readmegen Homework 9
-  
+[![License](https://img.shields.io/badge/License-EPL%201.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
 ## Table of Contents:  
 [1. Description](#Description)  
 [2. Installation](#Installation)  
