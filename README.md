@@ -37,4 +37,7 @@ For quesitons, email at:
 
 A video of using the app: 
 
+
+A screenshot of app run on terminal:
+
 ![screenshot of app run on terminal](/images/readmegen.JPG)
