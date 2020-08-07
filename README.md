@@ -37,4 +37,4 @@ For quesitons, email at:
 
 A video of using the app: 
 
-![](/images/readmegen.jpg)
+![screenshot of app run on terminal](/images/readmegen.jpg)
