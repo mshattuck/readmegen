@@ -37,6 +37,8 @@ For quesitons, email at:
 
 A video of using the app: 
 
+https://drive.google.com/file/d/1_59_4nQtqv4oXwCOSa1u2GGk3Pn1cxAK/view
+
 
 A screenshot of app run on terminal:
 
