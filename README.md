@@ -27,13 +27,7 @@ none
 ## Tests:
 There are no tests to run on this application.
 ## Questions:
-For quesitons, email at:  
-
-        mshattuck@fastmail.com
-
-        github at:  
- 
-        https://github.com/mshattuck
+For quesitons, email at: mshattuck@fastmail.com and github at: https://github.com/mshattuck
 
 A video of using the app: 
 
